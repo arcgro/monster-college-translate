@@ -944,32 +944,32 @@ translate CUSTOM strings:
     new "Eu conheci a Rachel na cafeteria do campus. Ela é uma vampira muito sexy e despreocupada. Eu gosto dela."
 
     # game/script/cap_01/sc_09.rpy:52
-    old "Yes, I'm new"
+    old "Sì, sono nuovo"
     #old "Yes, I'm new"
     new "Sim, sou novo"
 
     # game/script/cap_01/sc_09.rpy:82
-    old "You smell of roses"
+    old "Hai un dolce profumo di rosa, Rachel"
     #old "You smell of roses"
     new "Você cheira a rosas"
 
     # game/script/cap_01/sc_09.rpy:82
-    old "I don't smell anything"
+    old "Ad essere sincero, non sento nulla"
     #old "I don't smell anything"
     new "Eu não sinto cheiro de nada"
 
     # game/script/cap_01/sc_09.rpy:82
-    old "You smell like sex"
+    old "Odori di sesso, Rachel"
     #old "You smell like sex"
     new "Você cheira a sexo"
 
     # game/script/cap_01/sc_09.rpy:101
-    old "Wait!"
+    old "No, aspetta!"
     #old "Wait!"
     new "Espere!"
 
     # game/script/cap_01/sc_09.rpy:101
-    old "Bye"
+    old "Ok, va pure"
     #old "Bye!"
     new "Tchau!"
 
@@ -979,37 +979,37 @@ translate CUSTOM strings:
     new "Eu concordo com você"
 
     # game/script/cap_01/sc_09.rpy:133
-    old "Carrying on cultural traditions is important"
+    old "Ma è anche importante portare avanti le tradizioni culturali"
     #old "Carrying on cultural traditions is important"
     new "Manter as tradições culturais é importante"
 
     # game/script/cap_01/sc_09.rpy:161
-    old "Your family must be proud of you"
+    old "La tua famiglia deve essere orgogliosa di te"
     #old "Your family must be proud of you"
     new "Sua família deve estar orgulhosa de você"
 
     # game/script/cap_01/sc_09.rpy:161
-    old "Your boyfriend must be proud of you"
+    old "Il tuo fidanzato deve essere orgoglioso di te"
     #old "Your boyfriend must be proud of you"
-    new "Seu namorado deve estar orgulhoso de você"
+    new "Sua namorada deve estar orgulhoso de você"
 
     # game/script/cap_01/sc_09.rpy:221
-    old "No (lie)"
+    old "No, non lo sono (menti)"
     #old "No (lie)"
     new "Não (mentira)"
 
     # game/script/cap_01/sc_09.rpy:221
-    old "Yes."
+    old "Sì, lo sono"
     #old "Yes"
     new "Sim."
 
     # game/script/cap_01/sc_09.rpy:140
-    old "I met Rachel in the campus cafeteria, a very sexy albeit weird girl..."
+    old "Ho incontrato Rachel alla mensa del campus, una ragazza molto sexy ma un po' stramba..."
     #old "I met Rachel in the campus cafeteria, a very sexy albeit weird girl..."
     new "Eu conheci a Rachel na cafeteria do campus, uma garota muito sexy, embora estranha..."
 
     # game/script/cap_01/sc_09.rpy:317
-    old "I met Rachel, a vampire, in the campus cafeteria. She is a very sexy and carefree girl. I like her."
+    old "Ho conosciuto Rachel, una vampira, alla mensa del campus. E' una ragazza molto sexy e spensierata. Mi piace."
     #old "I met Rachel, a vampire, in the campus cafeteria. She is a very sexy and carefree girl. I like her."
     new "Eu conheci a Rachel, uma vampira, na cafeteria do campus. Ela é uma garota muito sexy e despreocupada. Eu gosto dela."
 
