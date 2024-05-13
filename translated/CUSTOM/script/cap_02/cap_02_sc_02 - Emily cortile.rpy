@@ -352,7 +352,7 @@ translate CUSTOM cap_02_sc_02_6b97b5a6:
 translate CUSTOM cap_02_sc_02_0afef040:
 
     # Emily "You're engaged."
-    Emily "Você está noiva."
+    Emily "Você está noivo."
 
 # game/script/cap_02/cap_02_sc_02 - Emily cortile.rpy:123
 translate CUSTOM cap_02_sc_02_b4b1feed:
@@ -826,50 +826,50 @@ translate CUSTOM cap_02_sc_02_cbe92ab8:
 translate CUSTOM cap_02_sc_02_df5e5ae9:
 
     # mc "(Does she not know that werewolves can't pass through walls?)"
-    mc "(Does she not know that werewolves can't pass through walls?)"
+    mc "(Ela não sabe que lobisomens não conseguem atravessar paredes?)"
 
 # game/script/cap_02/cap_02_sc_02 - Emily cortile.rpy:255
 translate CUSTOM cap_02_sc_02_0c153f79:
 
     # mc "(What do I do now?)"
-    mc "(What do I do now?)"
+    mc "(O que eu faço agora?)"
 
 # game/script/cap_02/cap_02_sc_02 - Emily cortile.rpy:258
 translate CUSTOM cap_02_sc_02_597ba0d1:
 
     # Emily "Just kidding!"
-    Emily "Just kidding!"
+    Emily "Estou brincando!"
 
 # game/script/cap_02/cap_02_sc_02 - Emily cortile.rpy:259
 translate CUSTOM cap_02_sc_02_335c358c:
 
     # mc "Argh! You scared me!"
-    mc "Argh! You scared me!"
+    mc "Argh! Você me assustou!"
 
 # game/script/cap_02/cap_02_sc_02 - Emily cortile.rpy:260
 translate CUSTOM cap_02_sc_02_bf681190:
 
     # Emily "Hehe, I always do that to newcomers."
-    Emily "Hehe, I always do that to newcomers."
+    Emily "Hehe, eu sempre faço isso com os recém-chegados."
 
 # game/script/cap_02/cap_02_sc_02 - Emily cortile.rpy:261
 translate CUSTOM cap_02_sc_02_21fd4431:
 
     # Emily "It's too funny."
-    Emily "It's too funny."
+    Emily "É muito engraçado."
 
 # game/script/cap_02/cap_02_sc_02 - Emily cortile.rpy:262
 translate CUSTOM cap_02_sc_02_be31ecba:
 
     # Emily "Take the door to my right, come on!"
-    Emily "Take the door to my right, come on!"
+    Emily "Pegue a porta à minha direita, vamos!"
 
 translate CUSTOM strings:
 
     # game/script/cap_02/cap_02_sc_02 - Emily cortile.rpy:63
     old "Ho conosciuto Emily. Emily è un fantasma. E' una ragazza molto gentile e disponibile. E' graziosa, anche se incorporea."
     #old "I met Emily. She's a very kind and helpful ghost girl. She's beautiful, even though she's incorporeal."
-    new "I met Emily. She's a very kind and helpful ghost girl. She's beautiful, even though she's incorporeal."
+    new "Eu conheci Emilly. Ela é uma garota fantasma muito gentil e prestativa. Ela é linda, embora seja incorpórea."
 
     # game/script/cap_02/cap_02_sc_02 - Emily cortile.rpy:71
     old "Sì"
@@ -879,7 +879,7 @@ translate CUSTOM strings:
     # game/script/cap_02/cap_02_sc_02 - Emily cortile.rpy:93
     old "Ed io sono una persona interessante?"
     #old "Am I interesting?"
-    new "Am I interesting?"
+    new "Eu sou interessante?"
 
     # game/script/cap_02/cap_02_sc_02 - Emily cortile.rpy:93
     old "Davvero? E cosa si dice di me?"
@@ -889,42 +889,42 @@ translate CUSTOM strings:
     # game/script/cap_02/cap_02_sc_02 - Emily cortile.rpy:97
     old "Non credo di esserlo"
     #old "I don't think so"
-    new "I don't think so"
+    new "Eu não acho"
 
     # game/script/cap_02/cap_02_sc_02 - Emily cortile.rpy:97
     old "Più che interessante, sono bello"
     #old "I'm handsome"
-    new "I'm handsome"
+    new "Mais que interessante, sou lindo"
 
     # game/script/cap_02/cap_02_sc_02 - Emily cortile.rpy:130
     old "Non sono cose che ti riguardano"
     #old "It doesn't concern you"
-    new "It doesn't concern you"
+    new "Isso não é da sua conta"
 
     # game/script/cap_02/cap_02_sc_02 - Emily cortile.rpy:130
     old "Purtroppo hai ragione"
     #old "You're right"
-    new "You're right"
+    new "Infelizmente você está certo"
 
     # game/script/cap_02/cap_02_sc_02 - Emily cortile.rpy:178
     old "Demoni"
     #old "Demons"
-    new "Demons"
+    new "Demônios"
 
     # game/script/cap_02/cap_02_sc_02 - Emily cortile.rpy:178
     old "Fantasmi"
     #old "Ghosts"
-    new "Ghosts"
+    new "Fantasmas"
 
     # game/script/cap_02/cap_02_sc_02 - Emily cortile.rpy:178
     old "Zombie"
     #old "Zombies"
-    new "Zombies"
+    new "Zumbis"
 
     # game/script/cap_02/cap_02_sc_02 - Emily cortile.rpy:178
     old "Spettri"
     #old "Specters"
-    new "Specters"
+    new "Espectros"
 
 
 # TODO: Translation updated at 2023-10-02 16:31
@@ -934,17 +934,17 @@ translate CUSTOM strings:
     # game/script/cap_02/cap_02_sc_02 - Emily cortile.rpy:183
     old "Demoni?"
     #old "Demons?"
-    new "Demons?"
+    new "Demônios?"
 
     # game/script/cap_02/cap_02_sc_02 - Emily cortile.rpy:183
     old "Fantasmi?"
     #old "Ghosts?"
-    new "Ghosts?"
+    new "Fantasmas?"
 
     # game/script/cap_02/cap_02_sc_02 - Emily cortile.rpy:183
     old "Zombie?"
     #old "Zombies?"
-    new "Zombies?"
+    new "Zumbis?"
 
     # game/script/cap_02/cap_02_sc_02 - Emily cortile.rpy:183
     old "Spettri?"

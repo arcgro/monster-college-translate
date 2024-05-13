@@ -4,55 +4,55 @@
 translate CUSTOM cap_02_sc_03_9106d95e:
 
     # mc "(I can't believe my eyes...!)"
-    mc "(I can't believe my eyes...!)"
+    mc "(Não acredito no que vejo...!)"
 
 # game/script/cap_02/cap_02_sc_03 - Emily Kyle psicologia.rpy:15
 translate CUSTOM cap_02_sc_03_61bff30c:
 
     # mc "(Professor Wilson is right here, in front of me!)"
-    mc "(Professor Wilson is right here, in front of me!)"
+    mc "(O professor Wilson está bem aqui, na minha frente!)"
 
 # game/script/cap_02/cap_02_sc_03 - Emily Kyle psicologia.rpy:16
 translate CUSTOM cap_02_sc_03_d4b7dd04:
 
     # mc "(Hearing him speak is exhilarating.)"
-    mc "(Hearing him speak is exhilarating.)"
+    mc "(Ouvi-lo falar é emocionante.)"
 
 # game/script/cap_02/cap_02_sc_03 - Emily Kyle psicologia.rpy:19
 translate CUSTOM cap_02_sc_03_12d4b81b:
 
     # mc "(I mean... Emily says it's just his brain inside a construct... or something like that...)"
-    mc "(I mean... Emily says it's just his brain inside a construct... or something like that...)"
+    mc "(Quero dizer... Emily diz que é apenas o cérebro dele dentro de uma construção... ou algo assim...)"
 
 # game/script/cap_02/cap_02_sc_03 - Emily Kyle psicologia.rpy:20
 translate CUSTOM cap_02_sc_03_73c6e356:
 
     # mc "(Kind of like Frankenstein's monster?)"
-    mc "(Kind of like Frankenstein's monster?)"
+    mc "(Mais ou menos como o monstro de Frankenstein?)"
 
 # game/script/cap_02/cap_02_sc_03 - Emily Kyle psicologia.rpy:21
 translate CUSTOM cap_02_sc_03_18b2a38f:
 
     # mc "(Though Emily says Wilson doesn't resemble him at all. Frankenstein's monster, I mean.)"
-    mc "(Though Emily says Wilson doesn't resemble him at all. Frankenstein's monster, I mean.)"
+    mc "(Embora Emily diga que Wilson não se parece em nada com ele. O monstro de Frankenstein, quero dizer.)"
 
 # game/script/cap_02/cap_02_sc_03 - Emily Kyle psicologia.rpy:24
 translate CUSTOM cap_02_sc_03_bd2623bc:
 
     # mc "(Apparently, the monster married a yeti and they live happily at the North Pole, now...)"
-    mc "(Apparently, the monster married a yeti and they live happily at the North Pole, now...)"
+    mc "(Aparentemente, o monstro se casou com um Yeti e eles vivem felizes no Pólo Norte, agora...)"
 
 # game/script/cap_02/cap_02_sc_03 - Emily Kyle psicologia.rpy:25
 translate CUSTOM cap_02_sc_03_b8735a86:
 
     # mc "(Well, whatever...)"
-    mc "(Well, whatever...)"
+    mc "(Bem, tanto faz...)"
 
 # game/script/cap_02/cap_02_sc_03 - Emily Kyle psicologia.rpy:26
 translate CUSTOM cap_02_sc_03_5806e245:
 
     # mc "(I'm glad I actually get to listen to Wilson!)"
-    mc "(I'm glad I actually get to listen to Wilson!)"
+    mc "(Estou feliz por realmente poder ouvir Wilson!)"
 
 # game/script/cap_02/cap_02_sc_03 - Emily Kyle psicologia.rpy:29
 translate CUSTOM cap_02_sc_03_ce3ffb81:
