@@ -22,7 +22,7 @@ translate CUSTOM cap_02_sc_03_d4b7dd04:
 translate CUSTOM cap_02_sc_03_12d4b81b:
 
     # mc "(I mean... Emily says it's just his brain inside a construct... or something like that...)"
-    mc "(Quero dizer... Emily diz que é apenas o cérebro dele dentro de uma construção... ou algo assim...)"
+    mc "(Quero dizer... Emily diz que é apenas o cérebro dele dentro de um Constructor... ou algo assim...)"
 
 # game/script/cap_02/cap_02_sc_03 - Emily Kyle psicologia.rpy:20
 translate CUSTOM cap_02_sc_03_73c6e356:

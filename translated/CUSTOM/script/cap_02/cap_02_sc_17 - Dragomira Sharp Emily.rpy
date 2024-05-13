@@ -94,7 +94,7 @@ translate CUSTOM cap_02_sc_17_1661ebb3:
 translate CUSTOM cap_02_sc_17_0246f467:
 
     # Dragomira "Cities like Venice lost over 60%% of their entire population."
-    Dragomira "Cidades como Veneza perderam mais de 60% de toda a sua população."
+    Dragomira "Cidades como Veneza perderam mais de 60%% de toda a sua população."
 
 # game/script/cap_02/cap_02_sc_17 - Dragomira Sharp Emily.rpy:33
 translate CUSTOM cap_02_sc_17_61b664ff:

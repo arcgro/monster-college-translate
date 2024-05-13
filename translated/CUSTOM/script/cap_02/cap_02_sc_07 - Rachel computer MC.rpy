@@ -1350,7 +1350,7 @@ translate CUSTOM strings:
     # game/script/cap_02/cap_02_sc_07 - Rachel computer MC.rpy:234
     old "Effettivamente"
     #old "You're right"
-    new "You're right"
+    new "Você tem razão"
 
     # game/script/cap_02/cap_02_sc_07 - Rachel computer MC.rpy:308
     old "Interrompi la connessione"

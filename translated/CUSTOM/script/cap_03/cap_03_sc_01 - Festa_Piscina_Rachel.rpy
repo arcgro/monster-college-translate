@@ -634,7 +634,7 @@ translate CUSTOM cap_03_sc_01_Piscina_Rachel_bc48341c:
 translate CUSTOM cap_03_sc_01_Piscina_Rachel_dc90029e:
 
     # Rachel "No no, I realize I was foolish."
-    Rachel "Não, não, percebi que fui tolo."
+    Rachel "Não, não, percebi que fui tola."
 
 # game/script/cap_03/cap_03_sc_01 - Festa_Piscina_Rachel.rpy:205
 translate CUSTOM cap_03_sc_01_Piscina_Rachel_1f245bd7:
@@ -646,7 +646,7 @@ translate CUSTOM cap_03_sc_01_Piscina_Rachel_1f245bd7:
 translate CUSTOM cap_03_sc_01_Piscina_Rachel_f453b670:
 
     # mc "No, you're not foolish, those two thugs had planned everything and..."
-    mc "Não, você não é tolo, aqueles dois bandidos tinham planejado tudo e..."
+    mc "Não, você não é tola, aqueles dois bandidos tinham planejado tudo e..."
 
 # game/script/cap_03/cap_03_sc_01 - Festa_Piscina_Rachel.rpy:209
 translate CUSTOM cap_03_sc_01_Piscina_Rachel_3bd44463:

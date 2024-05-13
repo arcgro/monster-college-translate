@@ -502,7 +502,7 @@ translate CUSTOM cap_02_sc_10_ecb6c962:
 translate CUSTOM cap_02_sc_10_b5db65d6:
 
     # mc "Are you afraid of being defeated by the newcomer, Nina?"
-    mc "Você tem medo de ser derrotada pela novata, Nina?"
+    mc "Você tem medo de ser derrotada pela novato, Nina?"
 
 # game/script/cap_02/cap_02_sc_10 - Maxine Nina Ben MMC.rpy:171
 translate CUSTOM cap_02_sc_10_77cc06cd:
@@ -1534,7 +1534,7 @@ translate CUSTOM cap_02_sc_10_bfb848e7_1:
 translate CUSTOM cap_02_sc_10_831d2954:
 
     # Ben "Great job, my friend!"
-    Ben "Ótimo trabalho, minha amiga!"
+    Ben "Ótimo trabalho, meu amigo!"
 
 # game/script/cap_02/cap_02_sc_10 - Maxine Nina Ben MMC.rpy:585
 translate CUSTOM cap_02_sc_10_ffa78910:

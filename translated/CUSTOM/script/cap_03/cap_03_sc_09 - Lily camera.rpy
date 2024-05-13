@@ -508,19 +508,19 @@ translate CUSTOM cap_03_sc_09_5c202ea6:
 translate CUSTOM cap_03_sc_09_5139b5c9:
 
     # mc "Yeah, right, that stinky thing we found under the sofa."
-    mc "Yeah, right, that stinky thing we found under the sofa."
+    mc "Sim, certo, aquela coisa fedorenta que encontramos debaixo do sofá."
 
 # game/script/cap_03/cap_03_sc_09 - Lily camera.rpy:167
 translate CUSTOM cap_03_sc_09_512b67b5:
 
     # mc "After that, nothing else, until now."
-    mc "After that, nothing else, until now."
+    mc "Depois disso, nada mais, até agora."
 
 # game/script/cap_03/cap_03_sc_09 - Lily camera.rpy:168
 translate CUSTOM cap_03_sc_09_809c2c30:
 
     # Lily "Yes, exactly."
-    Lily "Yes, exactly."
+    Lily "Sim, exatamente."
 
 # game/script/cap_03/cap_03_sc_09 - Lily camera.rpy:173
 translate CUSTOM cap_03_sc_09_385ffa45:

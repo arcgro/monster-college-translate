@@ -76,7 +76,7 @@ translate CUSTOM cap_03_sc_01_Piscina_Suzy_acb6d975:
 translate CUSTOM cap_03_sc_01_Piscina_Suzy_5b0c8ef0:
 
     # mc "I am mortified..."
-    mc "Estou mortificada..."
+    mc "Estou mortificado..."
 
 # game/script/cap_03/cap_03_sc_01 - Festa_Piscina_Suzy.rpy:33
 translate CUSTOM cap_03_sc_01_Piscina_Suzy_a86cbfea:
@@ -136,7 +136,7 @@ translate CUSTOM cap_03_sc_01_Piscina_Suzy_c31e8a48:
 translate CUSTOM cap_03_sc_01_Piscina_Suzy_31771e4d:
 
     # mc "I have to say that this costume looks great on you."
-    mc "Tenho que dizer que essa fantasia ficou ótima em você."
+    mc "Tenho que dizer que este maio ficou ótimo em você."
 
 # game/script/cap_03/cap_03_sc_01 - Festa_Piscina_Suzy.rpy:55
 translate CUSTOM cap_03_sc_01_Piscina_Suzy_e87ebf3b:
@@ -407,7 +407,7 @@ translate CUSTOM strings:
     # game/script/cap_03/cap_03_sc_01 - Festa_Piscina_Suzy.rpy:16
     old "Non essere in imbarazzo"
     #old "Don't be embarrassed"
-    new "Não fique envergonhado"
+    new "Não fique envergonhada"
 
     # game/script/cap_03/cap_03_sc_01 - Festa_Piscina_Suzy.rpy:16
     old "Perché hanno insistito?"

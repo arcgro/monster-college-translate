@@ -400,127 +400,127 @@ translate CUSTOM Piscina_Sofia_menu_be8ed5bb:
 translate CUSTOM Piscina_Sofia_menu_eeed0131:
 
     # Sofia "Sooo... I don't really get how this particular spell is not banned. I guess it's not really time travel..."
-    Sofia "Sooo... I don't really get how this particular spell is not banned. I guess it's not really time travel..."
+    Sofia "Entããão... Eu realmente não entendo como esse feitiço em particular não foi banido. Acho que não é realmente uma viagem no tempo..."
 
 # game/script/cap_03/cap_03_sc_01 - Festa_Piscina_Sofia.rpy:128
 translate CUSTOM Piscina_Sofia_menu_b8a6f0ec:
 
     # mc "(I'm trying to look interested and focused... but Sofia's curves keep distracting me...)"
-    mc "(I'm trying to look interested and focused... but Sofia's curves keep distracting me...)"
+    mc "(Estou tentando parecer interessado e focado... mas as curvas de Sofia continuam me distraindo...)"
 
 # game/script/cap_03/cap_03_sc_01 - Festa_Piscina_Sofia.rpy:130
 translate CUSTOM Piscina_Sofia_menu_69826431:
 
     # Sofia "I wonder if I'll ever be good enough to cast it myself..."
-    Sofia "I wonder if I'll ever be good enough to cast it myself..."
+    Sofia "Eu me pergunto se algum dia serei bom o suficiente para lançá-lo sozinho..."
 
 # game/script/cap_03/cap_03_sc_01 - Festa_Piscina_Sofia.rpy:131
 translate CUSTOM Piscina_Sofia_menu_158fc13a:
 
     # Sofia "I could actually modify this spell in reverse, and scry the past from the sky..."
-    Sofia "I could actually modify this spell in reverse, and scry the past from the sky..."
+    Sofia "Na verdade, eu poderia modificar esse feitiço ao contrário e vislumbrar o passado do céu..."
 
 # game/script/cap_03/cap_03_sc_01 - Festa_Piscina_Sofia.rpy:133
 translate CUSTOM Piscina_Sofia_menu_12fc27fe:
 
     # mc "What would you want to scry about?"
-    mc "What would you want to scry about?"
+    mc "Sobre o que você gostaria de adivinhar?"
 
 # game/script/cap_03/cap_03_sc_01 - Festa_Piscina_Sofia.rpy:135
 translate CUSTOM Piscina_Sofia_menu_e663e154:
 
     # Sofia "Huh? Actually... forget it, it's nothing..."
-    Sofia "Huh? Actually... forget it, it's nothing..."
+    Sofia "Huh? Na verdade... esqueça, não é nada..."
 
 # game/script/cap_03/cap_03_sc_01 - Festa_Piscina_Sofia.rpy:137
 translate CUSTOM Piscina_Sofia_menu_fa748584:
 
     # mc "I'm sure you'll succeed anyway."
-    mc "I'm sure you'll succeed anyway."
+    mc "Tenho certeza que você terá sucesso de qualquer maneira."
 
 # game/script/cap_03/cap_03_sc_01 - Festa_Piscina_Sofia.rpy:138
 translate CUSTOM Piscina_Sofia_menu_5d59d937:
 
     # mc "After all, you're the most powerful witch I know!"
-    mc "After all, you're the most powerful witch I know!"
+    mc "Afinal, você é a bruxa mais poderosa que conheço!"
 
 # game/script/cap_03/cap_03_sc_01 - Festa_Piscina_Sofia.rpy:140
 translate CUSTOM Piscina_Sofia_menu_64e23fc3:
 
     # Sofia "Thank you, [mc], that was actually kind of you. You know... you're better than I thought."
-    Sofia "Thank you, [mc], that was actually kind of you. You know... you're better than I thought."
+    Sofia "Obrigado, [mc], isso foi realmente gentil da sua parte. Você sabe... você é melhor do que eu pensava."
 
 # game/script/cap_03/cap_03_sc_01 - Festa_Piscina_Sofia.rpy:142
 translate CUSTOM Piscina_Sofia_menu_40957ec7:
 
     # mc "(I feel the pressure of her soft breasts on me...)"
-    mc "(I feel the pressure of her soft breasts on me...)"
+    mc "(Sinto a pressão dos seus seios macios em mim...)"
 
 # game/script/cap_03/cap_03_sc_01 - Festa_Piscina_Sofia.rpy:143
 translate CUSTOM Piscina_Sofia_menu_4e692a74:
 
     # mc "(I can't focus on this time travel story...)"
-    mc "(I can't focus on this time travel story...)"
+    mc "(Não consigo me concentrar nessa história de viagem no tempo...)"
 
 # game/script/cap_03/cap_03_sc_01 - Festa_Piscina_Sofia.rpy:144
 translate CUSTOM Piscina_Sofia_menu_6535531d:
 
     # Lenny "(If only you knew what she's thinking...)"
-    Lenny "(If only you knew what she's thinking...)"
+    Lenny "(Se você soubesse o que ela está pensando...)"
 
 # game/script/cap_03/cap_03_sc_01 - Festa_Piscina_Sofia.rpy:145
 translate CUSTOM Piscina_Sofia_menu_69890dc5:
 
     # mc "(What...? Lenny, what is she thinking!?)"
-    mc "(What...? Lenny, what is she thinking!?)"
+    mc "(O que...? Lenny, o que ela está pensando!?)"
 
 # game/script/cap_03/cap_03_sc_01 - Festa_Piscina_Sofia.rpy:146
 translate CUSTOM Piscina_Sofia_menu_0775200e:
 
     # Lenny "(I can't tell you, man. It would be a violation of privacy...)"
-    Lenny "(I can't tell you, man. It would be a violation of privacy...)"
+    Lenny "(Eu não posso te contar, cara. Seria uma violação da privacidade...)"
 
 # game/script/cap_03/cap_03_sc_01 - Festa_Piscina_Sofia.rpy:147
 translate CUSTOM Piscina_Sofia_menu_8423834b:
 
     # mc "(You read everyone's thoughts all the time!!)"
-    mc "(You read everyone's thoughts all the time!!)"
+    mc "(Você lê os pensamentos de todos o tempo todo!!)"
 
 # game/script/cap_03/cap_03_sc_01 - Festa_Piscina_Sofia.rpy:148
 translate CUSTOM Piscina_Sofia_menu_6bc6984c:
 
     # mc "(And you talk to me about privacy!?)"
-    mc "(And you talk to me about privacy!?)"
+    mc "(E você fala comigo sobre privacidade!?)"
 
 # game/script/cap_03/cap_03_sc_01 - Festa_Piscina_Sofia.rpy:149
 translate CUSTOM Piscina_Sofia_menu_ed10619a:
 
     # Lenny "(I mean... I see everything, but it's not like I like spreading secrets. I'd be a real shitty person.)"
-    Lenny "(I mean... I see everything, but it's not like I like spreading secrets. I'd be a real shitty person.)"
+    Lenny "(Quer dizer... eu vejo tudo, mas não gosto de espalhar segredos. Eu seria uma pessoa realmente péssima.)"
 
 # game/script/cap_03/cap_03_sc_01 - Festa_Piscina_Sofia.rpy:150
 translate CUSTOM Piscina_Sofia_menu_bf5712f1:
 
     # Lenny "(Oh man... And she has such lewd thoughts...)"
-    Lenny "(Oh man... And she has such lewd thoughts...)"
+    Lenny "(Oh cara... E ela tem pensamentos tão obscenos...)"
 
 # game/script/cap_03/cap_03_sc_01 - Festa_Piscina_Sofia.rpy:151
 translate CUSTOM Piscina_Sofia_menu_4b1ea561:
 
     # mc "(Lenny!!! Fuck! Tell me!)"
-    mc "(Lenny!!! Fuck! Tell me!)"
+    mc "(Leny!!! Porra! Diga-me!)"
 
 # game/script/cap_03/cap_03_sc_01 - Festa_Piscina_Sofia.rpy:153
 translate CUSTOM Piscina_Sofia_menu_361b2494:
 
     # Sofia "Thank you for keeping me company... It was nice spending time with someone who doesn't hate me."
-    Sofia "Thank you for keeping me company... It was nice spending time with someone who doesn't hate me."
+    Sofia "Obrigada por me fazer companhia... Foi bom passar um tempo com alguém que não me odeia."
 
 # game/script/cap_03/cap_03_sc_01 - Festa_Piscina_Sofia.rpy:154
 translate CUSTOM Piscina_Sofia_menu_8117ff45:
 
     # mc "It was nice! But all this kindness is going to make you sick."
-    mc "It was nice! But all this kindness is going to make you sick."
+    mc "Foi agradável! Mas toda essa gentileza vai te deixar doente."
 
 # game/script/cap_03/cap_03_sc_01 - Festa_Piscina_Sofia.rpy:156
 translate CUSTOM Piscina_Sofia_menu_1d208026:

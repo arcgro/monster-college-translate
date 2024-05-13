@@ -1516,7 +1516,7 @@ translate CUSTOM cap_03_sc_15_1a7159ca:
 translate CUSTOM cap_03_sc_15_afbc9073:
 
     # Lily "Oh, don't be modest."
-    Lily "Oh, não seja modesta."
+    Lily "Oh, não seja modesto."
 
 # game/script/cap_03/cap_03_sc_15 - Lily camera.rpy:424
 translate CUSTOM cap_03_sc_15_d30a04bd:
@@ -1534,7 +1534,7 @@ translate CUSTOM cap_03_sc_15_f6fc335e:
 translate CUSTOM cap_03_sc_15_3621eaa8:
 
     # Lily "You're playing the modest part."
-    Lily "Você está bancando a modesta."
+    Lily "Você está bancando o modesto."
 
 # game/script/cap_03/cap_03_sc_15 - Lily camera.rpy:428
 translate CUSTOM cap_03_sc_15_d7bc9b2b:

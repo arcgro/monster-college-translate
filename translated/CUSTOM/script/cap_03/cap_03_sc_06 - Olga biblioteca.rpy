@@ -322,7 +322,7 @@ translate CUSTOM cap_03_sc_06_768f4778:
 translate CUSTOM cap_03_sc_06_3c78bccb:
 
     # mc "I am disgusted!"
-    mc "Estou enojada!"
+    mc "Estou enojado!"
 
 # game/script/cap_03/cap_03_sc_06 - Olga biblioteca.rpy:82
 translate CUSTOM cap_03_sc_06_2099f1a1:
@@ -346,7 +346,7 @@ translate CUSTOM cap_03_sc_06_95ed013e:
 translate CUSTOM cap_03_sc_06_ed87c4b7:
 
     # Olga "To define oneself as 'disgusted' or to define an 'injustice' a proclamation of the Council is a childish act that I hope not to have to witness again."
-    Olga "Definir-se como 'enojada' ou definir uma 'injustiça' uma proclamação do Conselho é um ato infantil que espero não ter que testemunhar novamente."
+    Olga "Definir-se como 'enojado' ou definir uma 'injustiça' uma proclamação do Conselho é um ato infantil que espero não ter que testemunhar novamente."
 
 # game/script/cap_03/cap_03_sc_06 - Olga biblioteca.rpy:87
 translate CUSTOM cap_03_sc_06_846b038e:

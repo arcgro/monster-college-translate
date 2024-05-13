@@ -1841,7 +1841,7 @@ translate CUSTOM strings:
     # game/script/cap_02/cap_02_sc_13 - Olga biblioteca.rpy:446
     old "Hai ragione"
     #old "You're right"
-    new "You're right"
+    new "Você tem razão"
 
     # game/script/cap_02/cap_02_sc_13 - Olga biblioteca.rpy:448
     old "La professoressa Olga ha avuto uno strano incidente: è rimasta incollata ad una sedia. Per liberarla, le ho consigliato di spogliarsi. E' stato un momento tanto sexy quando buffo."

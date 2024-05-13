@@ -454,31 +454,31 @@ translate CUSTOM cap_03_sc_10_cd4f4751:
 translate CUSTOM cap_03_sc_10_3b1f7144:
 
     # mc "Sofia, I got up early, I'm taking a walk, maybe I didn't sleep in my room, maybe I did... what difference does it make to you?"
-    mc "Sofia, I got up early, I'm taking a walk, maybe I didn't sleep in my room, maybe I did... what difference does it make to you?"
+    mc "Sofia, levantei cedo, estou dando um passeio, talvez não tenha dormido no meu quarto, talvez tenha dormido... que diferença isso faz para você?"
 
 # game/script/cap_03/cap_03_sc_10 - Sofia cortile.rpy:136
 translate CUSTOM cap_03_sc_10_f5392a61:
 
     # mc "I'm not saying what you're saying is true, but... consider yourself lucky."
-    mc "I'm not saying what you're saying is true, but... consider yourself lucky."
+    mc "Não estou dizendo que o que você está dizendo é verdade, mas... considere-se com sorte."
 
 # game/script/cap_03/cap_03_sc_10 - Sofia cortile.rpy:137
 translate CUSTOM cap_03_sc_10_fc410bf6:
 
     # mc "If the witch thing doesn't work out for you, you always have a career as a stalker."
-    mc "If the witch thing doesn't work out for you, you always have a career as a stalker."
+    mc "Se a coisa da bruxa não der certo para você, você sempre terá uma carreira como perseguidor."
 
 # game/script/cap_03/cap_03_sc_10 - Sofia cortile.rpy:140
 translate CUSTOM cap_03_sc_10_65a8ba39:
 
     # Sofia "How witty, so in the early morning..."
-    Sofia "How witty, so in the early morning..."
+    Sofia "Que espirituoso, tão cedo pela manhã..."
 
 # game/script/cap_03/cap_03_sc_10 - Sofia cortile.rpy:141
 translate CUSTOM cap_03_sc_10_5cf42321:
 
     # Sofia "As much as I appreciate humor, especially if black... this is not the most appropriate time."
-    Sofia "As much as I appreciate humor, especially if black... this is not the most appropriate time."
+    Sofia "Por mais que aprecie o humor, principalmente se for negro... este não é o momento mais apropriado."
 
 # game/script/cap_03/cap_03_sc_10 - Sofia cortile.rpy:143
 translate CUSTOM cap_03_sc_10_38cfa4d8:

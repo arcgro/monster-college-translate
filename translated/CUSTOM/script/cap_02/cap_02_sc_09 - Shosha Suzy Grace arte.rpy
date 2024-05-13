@@ -124,7 +124,7 @@ translate CUSTOM cap_02_sc_09_93182fb1:
 translate CUSTOM cap_02_sc_09_95d85cbc:
 
     # Shosha "You have become too human."
-    Shosha "Você se tornou muito humana."
+    Shosha "Você se tornou muito humano."
 
 # game/script/cap_02/cap_02_sc_09 - Shosha Suzy Grace arte.rpy:41
 translate CUSTOM cap_02_sc_09_e11e86fb:
@@ -136,13 +136,13 @@ translate CUSTOM cap_02_sc_09_e11e86fb:
 translate CUSTOM cap_02_sc_09_fe8791e3:
 
     # Shosha "Over the centuries, you have drifted further and further from the beauty of nature."
-    Shosha "Ao longo dos séculos, você se distanciou cada vez mais da beleza da natureza."
+    Shosha "Ao longo dos séculos, vocês se distanciaram cada vez mais da beleza da natureza."
 
 # game/script/cap_02/cap_02_sc_09 - Shosha Suzy Grace arte.rpy:45
 translate CUSTOM cap_02_sc_09_86a71503:
 
     # Shosha "But it is nature that created you, and it is nature that nourished you."
-    Shosha "Mas foi a natureza que te criou, e é a natureza que te nutriu."
+    Shosha "Mas foi a natureza que os criou, e é a natureza que os nutri."
 
 # game/script/cap_02/cap_02_sc_09 - Shosha Suzy Grace arte.rpy:48
 translate CUSTOM cap_02_sc_09_9fe40dd1:
@@ -256,7 +256,7 @@ translate CUSTOM cap_02_sc_09_2fc44851:
 translate CUSTOM cap_02_sc_09_b3fbb8b0:
 
     # Shosha "I am very curious."
-    Shosha "Estou muito curioso."
+    Shosha "Estou muito curiosa."
 
 # game/script/cap_02/cap_02_sc_09 - Shosha Suzy Grace arte.rpy:87
 translate CUSTOM cap_02_sc_09_cc64c0be:

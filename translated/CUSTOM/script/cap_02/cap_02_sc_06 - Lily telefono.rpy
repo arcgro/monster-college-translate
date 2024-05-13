@@ -142,13 +142,13 @@ translate CUSTOM cap_02_sc_06_81664224:
 translate CUSTOM cap_02_sc_06_b62e0135:
 
     # Lily "I'm glad to hear you're keeping yourself busy."
-    Lily "Fico feliz em saber que você está se mantendo ocupada."
+    Lily "Fico feliz em saber que você está se mantendo ocupado."
 
 # game/script/cap_02/cap_02_sc_06 - Lily telefono.rpy:55
 translate CUSTOM cap_02_sc_06_0b069155:
 
     # Lily "When I saw you the other day, you seemed kinda lost."
-    Lily "Quando eu te vi outro dia, você parecia meio perdida."
+    Lily "Quando eu te vi outro dia, você parecia meio perdido."
 
 # game/script/cap_02/cap_02_sc_06 - Lily telefono.rpy:57
 translate CUSTOM cap_02_sc_06_b0d6d868:

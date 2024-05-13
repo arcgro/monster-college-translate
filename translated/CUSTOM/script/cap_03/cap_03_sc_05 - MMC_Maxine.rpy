@@ -496,7 +496,7 @@ translate CUSTOM cap_03_sc_05_f5669609:
 translate CUSTOM cap_03_sc_05_009ed104:
 
     # Maxine "Everything okay, honey?"
-    Maxine "Tudo bem, querida?"
+    Maxine "Tudo bem, querido?"
 
 # game/script/cap_03/cap_03_sc_05 - MMC_Maxine.rpy:205
 translate CUSTOM cap_03_sc_05_93ebc6b8:

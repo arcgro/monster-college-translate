@@ -520,13 +520,13 @@ translate CUSTOM cap_02_sc_14_f25795b0:
 translate CUSTOM cap_02_sc_14_139d24e5:
 
     # Felvia "Fuck me! Fuck me, [mc]!"
-    Felvia "Fuck me! Fuck me, [mc]!"
+    Felvia "Me Foda! Me Foda, [mc]!"
 
 # game/script/cap_02/cap_02_sc_14 - Felvia sesso.rpy:231
 translate CUSTOM cap_02_sc_14_34beb706:
 
     # Felvia "You really know how to make me cum!"
-    Felvia "You really know how to make me cum!"
+    Felvia "Você realmente sabe como me fazer gozar!"
 
 # game/script/cap_02/cap_02_sc_14 - Felvia sesso.rpy:232
 translate CUSTOM cap_02_sc_14_7375e8c7:
