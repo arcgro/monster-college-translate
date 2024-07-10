@@ -1,0 +1,40 @@
+name: Gerar e Publicar Arquivo Compactado
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  gerar_compactado:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Instalar Ferramentas
+        run: |
+          sudo apt-get update && sudo apt-get install -y zip
+
+      - name: Definir Pasta
+        run: |
+          pasta_compactada="translated/CUSTOM" # Substitua por seu diretório
+
+      - name: Gerar Arquivo Compactado
+        run: |
+          zip -r release.zip $pasta_compactada
+
+      - name: Upload para Releases
+        uses: actions/upload-artifact@v3
+        with:
+          name: release
+          path: release.zip
+
+      - name: Criar Release
+        uses: tj-actions/create-release@v6
+        with:
+          tag_name: ${{ github.event.release.tag_name }}
+          name: ${{ github.event.release.name }}
+          body: ${{ github.event.release.body }}
+          draft: false
+
+          assets: 'release.zip'
