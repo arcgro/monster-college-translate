@@ -18,7 +18,17 @@ jobs:
       - name: Definir Pasta
         run: |
           pasta_compactada="translated/CUSTOM" # Substitua por seu diretório
-          
+
+      - name: Verificar Diretório
+        run: |
+          if [ ! -d "$pasta_compactada" ]; then
+            echo "Diretório não existe: $pasta_compactada"
+            exit 1
+          fi
+          if [ -z "$(ls -A $pasta_compactada)" ]; then
+            echo "Diretório está vazio: $pasta_compactada"
+            exit 1
+          fi
 
       - name: Gerar Arquivo Compactado
         run: |
@@ -37,5 +47,5 @@ jobs:
           name: ${{ github.event.release.name }}
           body: ${{ github.event.release.body }}
           draft: false
-
           assets: 'release.zip'
+
