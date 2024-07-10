@@ -17,7 +17,7 @@ jobs:
 
       - name: Definir Pasta
         run: |
-          echo "$HOME/translated" >> $pasta_compactada #pasta_compactada="$HOME/translated" # Substitua por seu diretório
+          echo "$HOME/translated" >> $pasta_compactada
           
 
       - name: Gerar Arquivo Compactado
