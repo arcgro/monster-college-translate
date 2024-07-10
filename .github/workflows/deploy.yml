@@ -1,4 +1,4 @@
-name: Gerar e Publicar Arquivo Compactado
+name: Gerar Arquivo Compactado
 
 on:
   push:
@@ -21,6 +21,12 @@ jobs:
           pasta_compactada="translated/CUSTOM"
           echo "pasta=$pasta_compactada" >> $GITHUB_ENV
 
+      - name: Get current date
+        id: date
+        run: echo "NOW=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+        
+
+
       - name: Verificar Diretório
         run: |
           pasta_compactada=${{ env.pasta }}
@@ -40,7 +46,7 @@ jobs:
         run: |
           pasta_compactada=${{ env.pasta }}
           echo "Compactando diretório: $pasta_compactada"
-          zip -r release.zip $pasta_compactada
+          zip -r "monster-college-translate${{NOW}}.zip" $pasta_compactada
 
       - name: Upload para Releases
         uses: actions/upload-artifact@v4
