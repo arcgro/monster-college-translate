@@ -30,7 +30,7 @@ jobs:
           path: release.zip
 
       - name: Criar Release
-        uses: tj-actions/create-release@v6
+        uses: actions/create-release@v1
         with:
           tag_name: ${{ github.event.release.tag_name }}
           name: ${{ github.event.release.name }}
