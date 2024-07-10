@@ -17,7 +17,8 @@ jobs:
 
       - name: Definir Pasta
         run: |
-          pasta_compactada="translated" # Substitua por seu diretório
+          pasta_compactada="translated" # Substitua por seu diretório  
+          echo "Current Working Directory: $(pasta_compactada)"
 
       - name: Gerar Arquivo Compactado
         run: |
