@@ -16,15 +16,25 @@ jobs:
           sudo apt-get update && sudo apt-get install -y zip
 
       - name: Definir Pasta
+        id: definir_pasta
         run: |
-          pasta_compactada="translated/CUSTOM" # Substitua por seu diretório
+          # Definir o diretório a ser compactado
+          pasta_compactada="translated/CUSTOM"
+          echo "::set-output name=pasta::$pasta_compactada"
 
       - name: Verificar Diretório
         run: |
+          # Obter o caminho do diretório
+          pasta_compactada=${{ steps.definir_pasta.outputs.pasta }}
+          echo "Verificando diretório: $pasta_compactada"
+
+          # Verificar se o diretório existe
           if [ ! -d "$pasta_compactada" ]; then
             echo "Diretório não existe: $pasta_compactada"
             exit 1
           fi
+
+          # Verificar se o diretório não está vazio
           if [ -z "$(ls -A $pasta_compactada)" ]; then
             echo "Diretório está vazio: $pasta_compactada"
             exit 1
@@ -32,6 +42,11 @@ jobs:
 
       - name: Gerar Arquivo Compactado
         run: |
+          # Obter o caminho do diretório
+          pasta_compactada=${{ steps.definir_pasta.outputs.pasta }}
+          echo "Compactando diretório: $pasta_compactada"
+          
+          # Criar o arquivo ZIP
           zip -r release.zip $pasta_compactada
 
       - name: Upload para Releases
@@ -48,4 +63,3 @@ jobs:
           body: ${{ github.event.release.body }}
           draft: false
           assets: 'release.zip'
-
