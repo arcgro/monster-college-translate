@@ -17,11 +17,12 @@ jobs:
 
       - name: Definir Pasta
         run: |
-          pasta_compactada="path/to/translated" # Substitua por seu diretório
+          echo "$HOME/translated" >> $pasta_compactada #pasta_compactada="$HOME/translated" # Substitua por seu diretório
+          
 
       - name: Gerar Arquivo Compactado
         run: |
-          zip -r release.zip "path/to/translated"
+          zip -r release.zip $pasta_compactada
 
       - name: Upload para Releases
         uses: actions/upload-artifact@v3
