@@ -21,7 +21,7 @@ jobs:
 
       - name: Gerar Arquivo Compactado
         run: |
-          zip -r release.zip $pasta_compactada
+          zip -r release.zip "path/to/translated"
 
       - name: Upload para Releases
         uses: actions/upload-artifact@v3
