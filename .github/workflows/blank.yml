@@ -17,7 +17,7 @@ jobs:
 
       - name: Definir Pasta
         run: |
-          pasta_compactada="translated/CUSTOM" # Substitua por seu diretório
+          pasta_compactada="translated" # Substitua por seu diretório
 
       - name: Gerar Arquivo Compactado
         run: |
