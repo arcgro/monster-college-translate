@@ -46,10 +46,10 @@ jobs:
         run: |
           pasta_compactada=${{ env.pasta }}
           echo "Compactando diretório: $pasta_compactada"
-          zip -r "monster-college-translate${{ env.NOW }}.zip" $pasta_compactada
+          zip -r "monster-college-translate-${{ env.NOW }}.zip" $pasta_compactada
 
       - name: Upload para Releases
         uses: actions/upload-artifact@v4
         with:
           name: release
-          path: "monster-college-translate${{ env.NOW }}.zip"  
+          path: "monster-college-translate-${{ env.NOW }}.zip"  
